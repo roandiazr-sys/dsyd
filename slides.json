@@ -1,0 +1,676 @@
+-{
+  "slides": [
+    {
+      "index": 0,
+      "image": "slides/slide01.png",
+      "title": "Diapositiva 1",
+      "videos": [],
+      "links": [
+        {
+          "box": {
+            "left": 24.59001,
+            "top": 65.97368,
+            "width": 10.7884,
+            "height": 19.13723
+          },
+          "label": "Vista general de diapositiva 39",
+          "slide": 8
+        },
+        {
+          "box": {
+            "left": 53.05294,
+            "top": 66.1105,
+            "width": 10.78839,
+            "height": 19.13721
+          },
+          "label": "Vista general de diapositiva 43",
+          "slide": 10
+        },
+        {
+          "box": {
+            "left": 79.43403,
+            "top": 54.16629,
+            "width": 10.79947,
+            "height": 19.19905
+          },
+          "label": "Vista general de diapositiva 48",
+          "slide": 19
+        },
+        {
+          "box": {
+            "left": 79.63664,
+            "top": 35.27531,
+            "width": 10.47947,
+            "height": 18.5892
+          },
+          "label": "Vista general de diapositiva 50",
+          "slide": 25
+        },
+        {
+          "box": {
+            "left": 79.51925,
+            "top": 16.29236,
+            "width": 10.71425,
+            "height": 19.04755
+          },
+          "label": "Vista general de diapositiva 52",
+          "slide": 26
+        },
+        {
+          "box": {
+            "left": 66.52062,
+            "top": 66.1105,
+            "width": 10.78839,
+            "height": 19.22113
+          },
+          "label": "Vista general de diapositiva 60",
+          "slide": 11
+        },
+        {
+          "box": {
+            "left": 9.33124,
+            "top": 53.86451,
+            "width": 10.79946,
+            "height": 19.19904
+          },
+          "label": "Vista general de sección 69",
+          "slide": 7
+        },
+        {
+          "box": {
+            "left": 9.48489,
+            "top": 16.58689,
+            "width": 10.53494,
+            "height": 18.68842
+          },
+          "label": "Vista general de seccion 7",
+          "slide": 1
+        },
+        {
+          "box": {
+            "left": 38.89528,
+            "top": 66.08021,
+            "width": 10.64078,
+            "height": 18.91694
+          },
+          "label": "Vista general de sección 12",
+          "slide": 9
+        },
+        {
+          "box": {
+            "left": 9.1219,
+            "top": 35.33991,
+            "width": 10.51224,
+            "height": 18.68842
+          },
+          "label": "Vista general de diapositiva 2",
+          "slide": 2
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "image": "slides/slide02.png",
+      "title": "Diapositiva 2",
+      "videos": [
+        {
+          "src": "assets/media/media1.mp4",
+          "box": {
+            "left": 0.0,
+            "top": 0.0,
+            "width": 100.0,
+            "height": 100.0
+          }
+        }
+      ],
+      "links": [
+        {
+          "box": {
+            "left": 88.15671,
+            "top": 72.76941,
+            "width": 7.01134,
+            "height": 12.4646
+          },
+          "label": "Imagen 4",
+          "slide": 0
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "image": "slides/slide03.png",
+      "title": "Nuestro EquipoPrevenciónde RiesgosPropuesta EléctricaC.C. D.D.DesarrolloProyecto",
+      "videos": [],
+      "links": [
+        {
+          "box": {
+            "left": 91.2822,
+            "top": 82.66031,
+            "width": 7.01134,
+            "height": 12.4646
+          },
+          "label": "Imagen 73",
+          "slide": 0
+        },
+        {
+          "box": {
+            "left": 81.67393,
+            "top": 49.26454,
+            "width": 7.05181,
+            "height": 12.5
+          },
+          "label": "Vista general de diapositiva 38",
+          "slide": 6
+        },
+        {
+          "box": {
+            "left": 57.35361,
+            "top": 48.42371,
+            "width": 7.79697,
+            "height": 13.82132
+          },
+          "label": "Vista general de diapositiva 49",
+          "slide": 5
+        },
+        {
+          "box": {
+            "left": 15.03973,
+            "top": 29.71009,
+            "width": 10.49263,
+            "height": 18.65356
+          },
+          "label": "Vista general de diapositiva 74",
+          "slide": 3
+        },
+        {
+          "box": {
+            "left": 33.09988,
+            "top": 48.04449,
+            "width": 7.92023,
+            "height": 14.08042
+          },
+          "label": "Vista general de diapositiva 75",
+          "slide": 4
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "image": "slides/slide04.png",
+      "title": "Roberto Díaz P.Gerente GeneralIngeniero (E) en Electricidad, Mención Proyectos d",
+      "videos": [],
+      "links": []
+    },
+    {
+      "index": 4,
+      "image": "slides/slide05.png",
+      "title": "David Guerra R.Contador Auditor, Magister en Dirección de Empresas (MBA) y Diplo",
+      "videos": [],
+      "links": []
+    },
+    {
+      "index": 5,
+      "image": "slides/slide06.png",
+      "title": "Héctor Figueroa S.Gerente ComercialTécnico Superior Electromecánico, con Estudio",
+      "videos": [],
+      "links": []
+    },
+    {
+      "index": 6,
+      "image": "slides/slide07.png",
+      "title": "Manuel Figueroa A.Jefe de OperacionesIngeniero Constructor con Mención en Admini",
+      "videos": [],
+      "links": []
+    },
+    {
+      "index": 7,
+      "image": "slides/slide08.png",
+      "title": "ValoresEficienciaSeguridadCalidadCompromisoMedioAmbiente",
+      "videos": [],
+      "links": []
+    },
+    {
+      "index": 8,
+      "image": "slides/slide09.png",
+      "title": "Certificado Siniestralidad** Cotización Adicional Cero (0)X TrabajadoresAñoN° de",
+      "videos": [],
+      "links": []
+    },
+    {
+      "index": 9,
+      "image": "slides/slide10.png",
+      "title": "Diapositiva 10",
+      "videos": [
+        {
+          "src": "assets/media/media2.mp4",
+          "box": {
+            "left": 0.0,
+            "top": 0.0,
+            "width": 100.0,
+            "height": 100.0
+          }
+        }
+      ],
+      "links": [
+        {
+          "box": {
+            "left": 88.3727,
+            "top": 80.96385,
+            "width": 7.01134,
+            "height": 12.4646
+          },
+          "label": "Imagen 3",
+          "slide": 0
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "image": "slides/slide11.png",
+      "title": "Clientes",
+      "videos": [],
+      "links": []
+    },
+    {
+      "index": 11,
+      "image": "slides/slide12.png",
+      "title": "Áreas de\tEjecución",
+      "videos": [],
+      "links": [
+        {
+          "box": {
+            "left": 77.05511,
+            "top": 32.08548,
+            "width": 7.01134,
+            "height": 12.4646
+          },
+          "label": "Imagen 20",
+          "slide": 0
+        },
+        {
+          "box": {
+            "left": 6.64365,
+            "top": 67.86062,
+            "width": 9.42456,
+            "height": 16.75477
+          },
+          "label": "Vista general de diapositiva 48",
+          "slide": 12
+        },
+        {
+          "box": {
+            "left": 19.54146,
+            "top": 67.86062,
+            "width": 9.42456,
+            "height": 16.75477
+          },
+          "label": "Vista general de diapositiva 50",
+          "slide": 13
+        },
+        {
+          "box": {
+            "left": 32.41149,
+            "top": 67.84931,
+            "width": 9.42456,
+            "height": 16.75477
+          },
+          "label": "Vista general de diapositiva 52",
+          "slide": 14
+        },
+        {
+          "box": {
+            "left": 45.3378,
+            "top": 67.84931,
+            "width": 9.49385,
+            "height": 16.75477
+          },
+          "label": "Vista general de diapositiva 55",
+          "slide": 15
+        },
+        {
+          "box": {
+            "left": 58.22134,
+            "top": 67.84931,
+            "width": 9.42456,
+            "height": 16.75477
+          },
+          "label": "Vista general de diapositiva 57",
+          "slide": 16
+        },
+        {
+          "box": {
+            "left": 71.06693,
+            "top": 67.76799,
+            "width": 9.49385,
+            "height": 16.87795
+          },
+          "label": "Vista general de diapositiva 60",
+          "slide": 17
+        },
+        {
+          "box": {
+            "left": 84.02132,
+            "top": 67.86063,
+            "width": 9.71829,
+            "height": 16.74345
+          },
+          "label": "Vista general de diapositiva 62",
+          "slide": 18
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "image": "slides/slide13.png",
+      "title": "SaludMontaje  deIluminación y Fuerza en Salas y PabellonesInstalaciones Exterior",
+      "videos": [],
+      "links": []
+    },
+    {
+      "index": 13,
+      "image": "slides/slide14.png",
+      "title": "RetailMontaje, Iluminacióny Cableados de TiendasIluminación de TiendasSistemas d",
+      "videos": [],
+      "links": []
+    },
+    {
+      "index": 14,
+      "image": "slides/slide15.png",
+      "title": "Planta Solar Red Eléctrica, Conexiónde Inversores  Fijación de Paneles (montaje ",
+      "videos": [],
+      "links": []
+    },
+    {
+      "index": 15,
+      "image": "slides/slide16.png",
+      "title": "Planta IndustrialDistribución de Energía e Instalación de equiposCableado, Canal",
+      "videos": [],
+      "links": []
+    },
+    {
+      "index": 16,
+      "image": "slides/slide17.png",
+      "title": "Bodega IndustrialDiseño, Acometidas, Transformadores y Cuadros EléctricosCablead",
+      "videos": [],
+      "links": []
+    },
+    {
+      "index": 17,
+      "image": "slides/slide18.png",
+      "title": "MineríaDiseño, PlanificaciónTableros, Luminarias y Salas EléctricasCableado, Can",
+      "videos": [],
+      "links": []
+    },
+    {
+      "index": 18,
+      "image": "slides/slide19.png",
+      "title": "Generación             HidroeléctricaDiseño y Planificación Suministro e Instala",
+      "videos": [],
+      "links": []
+    },
+    {
+      "index": 19,
+      "image": "slides/slide20.png",
+      "title": "Finning Cat(Antofagasta)Casino Dreams(Talca)Salamanca(Coquimbo)Metso(Antofagasta",
+      "videos": [],
+      "links": [
+        {
+          "box": {
+            "left": 80.67275,
+            "top": 77.67164,
+            "width": 7.01134,
+            "height": 12.4646
+          },
+          "label": "Imagen 57",
+          "slide": 0
+        },
+        {
+          "box": {
+            "left": 20.37144,
+            "top": 44.45382,
+            "width": 5.21644,
+            "height": 9.16667
+          },
+          "label": "Vista general de diapositiva 58",
+          "slide": 20
+        },
+        {
+          "box": {
+            "left": 33.92571,
+            "top": 44.72967,
+            "width": 5.23681,
+            "height": 9.16667
+          },
+          "label": "Vista general de diapositiva 59",
+          "slide": 21
+        },
+        {
+          "box": {
+            "left": 46.82414,
+            "top": 44.45382,
+            "width": 5.23681,
+            "height": 9.16667
+          },
+          "label": "Vista general de diapositiva 60",
+          "slide": 22
+        },
+        {
+          "box": {
+            "left": 60.39878,
+            "top": 44.59167,
+            "width": 5.23681,
+            "height": 9.16667
+          },
+          "label": "Vista general de diapositiva 61",
+          "slide": 23
+        },
+        {
+          "box": {
+            "left": 73.82503,
+            "top": 44.51744,
+            "width": 5.23681,
+            "height": 9.18844
+          },
+          "label": "Vista general de diapositiva 77",
+          "slide": 24
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "image": "slides/slide21.png",
+      "title": "Diapositiva 21",
+      "videos": [
+        {
+          "src": "assets/media/media3.mp4",
+          "box": {
+            "left": 0.0,
+            "top": 0.0,
+            "width": 100.0,
+            "height": 100.0
+          }
+        }
+      ],
+      "links": [
+        {
+          "box": {
+            "left": 88.94961,
+            "top": 77.5023,
+            "width": 7.01134,
+            "height": 12.4646
+          },
+          "label": "Imagen 2",
+          "slide": 19
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "image": "slides/slide22.png",
+      "title": "Diapositiva 22",
+      "videos": [
+        {
+          "src": "assets/media/media4.mp4",
+          "box": {
+            "left": 0.0,
+            "top": 0.0,
+            "width": 100.0,
+            "height": 100.0
+          }
+        }
+      ],
+      "links": [
+        {
+          "box": {
+            "left": 90.71594,
+            "top": 72.32674,
+            "width": 7.01134,
+            "height": 12.4646
+          },
+          "label": "Imagen 4",
+          "slide": 19
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "image": "slides/slide23.png",
+      "title": "Diapositiva 23",
+      "videos": [
+        {
+          "src": "assets/media/media5.mp4",
+          "box": {
+            "left": 0.0,
+            "top": 0.0,
+            "width": 100.0,
+            "height": 100.0
+          }
+        }
+      ],
+      "links": [
+        {
+          "box": {
+            "left": 84.33424,
+            "top": 70.21293,
+            "width": 7.01134,
+            "height": 12.4646
+          },
+          "label": "Imagen 3",
+          "slide": 19
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "image": "slides/slide24.png",
+      "title": "Diapositiva 24",
+      "videos": [
+        {
+          "src": "assets/media/media6.mp4",
+          "box": {
+            "left": 0.0,
+            "top": 0.0,
+            "width": 100.0,
+            "height": 100.0
+          }
+        }
+      ],
+      "links": [
+        {
+          "box": {
+            "left": 88.30058,
+            "top": 80.57924,
+            "width": 7.01134,
+            "height": 12.4646
+          },
+          "label": "Imagen 4",
+          "slide": 19
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "image": "slides/slide25.png",
+      "title": "Diapositiva 25",
+      "videos": [
+        {
+          "src": "assets/media/media7.mp4",
+          "box": {
+            "left": 0.0,
+            "top": 0.0,
+            "width": 100.0,
+            "height": 100.0
+          }
+        }
+      ],
+      "links": [
+        {
+          "box": {
+            "left": 88.30058,
+            "top": 80.57924,
+            "width": 7.01134,
+            "height": 12.4646
+          },
+          "label": "Imagen 2",
+          "slide": 19
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "image": "slides/slide26.png",
+      "title": "Diapositiva 26",
+      "videos": [
+        {
+          "src": "assets/media/media8.mp4",
+          "box": {
+            "left": 0.0,
+            "top": 0.0,
+            "width": 100.0,
+            "height": 100.0
+          }
+        }
+      ],
+      "links": [
+        {
+          "box": {
+            "left": 91.11307,
+            "top": 87.5354,
+            "width": 7.01134,
+            "height": 12.4646
+          },
+          "label": "Imagen 4",
+          "slide": 0
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "image": "slides/slide27.png",
+      "title": "Diapositiva 27",
+      "videos": [
+        {
+          "src": "assets/media/media9.mp4",
+          "box": {
+            "left": 0.0,
+            "top": 0.0,
+            "width": 100.0,
+            "height": 100.0
+          }
+        }
+      ],
+      "links": [
+        {
+          "box": {
+            "left": 88.80538,
+            "top": 76.73307,
+            "width": 7.01134,
+            "height": 12.4646
+          },
+          "label": "Imagen 5",
+          "slide": 0
+        }
+      ]
+    }
+  ]
+}
